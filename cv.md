@@ -27,6 +27,7 @@ For me, frontend development is a real art, I want to relate to it and become pa
 - Module Bundlers: Webpack.
 - Windows OS
 - Figma(for frontend development)
+- - Editors: VSCode, Sublime Text
 
 # Code examples
 
